@@ -1,9 +1,9 @@
 
 export default function App() {
   return (
-    <div>
-      <h1>App de Inversiones Frantoanna</h1>
-      <p>Bienvenido a tu gestor de inversiones</p>
+    <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+      <h1>✅ Funciona la app</h1>
+      <p>Gestión de inversiones Frantoanna</p>
     </div>
   );
 }
